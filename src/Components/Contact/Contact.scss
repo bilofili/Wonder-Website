@@ -1,0 +1,21 @@
+:root {
+    --primaryColor: #3ab3a7;
+    --primaryHover: #0c988a;
+    --secondaryColor: #059789;
+    --secHoverColor: #253b53;
+    --greyColor: #f7f7f7;
+}
+
+.contacts-from { 
+    display: flex;
+    flex-direction: row;
+    max-width: 400px;
+    height: 450px;
+    background-color: var(--primaryColor);
+
+
+
+    .contacts-from .card-cont {
+        background-color: var(--greyColor);
+    }
+}
