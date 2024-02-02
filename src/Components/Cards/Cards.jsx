@@ -22,7 +22,7 @@ const Cards = () => {
   
   return (
     
-    <div className='cards'>
+    <div className='cards' id='cards'>
       <div data-aos='fade-up' data-aos-duration='2000' className="cardContainer container grid">
         <div className="singleCard">
           <div className="imgDiv">
@@ -52,9 +52,7 @@ const Cards = () => {
         </div>
       </div>
 
-      <div className="spanText flex" onClick={() => {
-        
-      }}>
+      <div className="spanText flex" href="contact">
         Other Tours <AiOutlineSwapRight className='icon' id='tours'/>
       </div>
     </div>

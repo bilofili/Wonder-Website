@@ -22,7 +22,10 @@ const Home = () => {
           Trust <strong>Our Experience</strong>
         </div>
 
-        <div data-aos='fade-up' data-aos-duration='6000' className="btn">Get In Touch</div>
+        <a href="#cards">
+          <div data-aos='fade-up' data-aos-duration='6000' className="btn">Get In Touch</div>
+        </a>
+        
       </div>
       
 

@@ -52,7 +52,9 @@ const Tour = () => {
               <p>
               Spain, a country on Europe’s Iberian Peninsula, includes 17 autonomous regions with diverse geography and cultures. Capital city Madrid is home to the Royal Palace and Prado museum, housing works by European masters
               </p>
+              <a href='#staff' >
                <button className="btn">Buy This Tour</button>
+               </a>
             </div>
              
              <span className="price">
@@ -86,7 +88,9 @@ const Tour = () => {
               <p>
               Mauritius, an Indian Ocean island nation, is known for its beaches, lagoons and reefs. The mountainous interior includes Black River Gorges National Park, with rainforests.
               </p>
+              <a href='#staff' >
                <button className="btn">Buy This Tour</button>
+               </a>
             </div>
              
              <span className="price">

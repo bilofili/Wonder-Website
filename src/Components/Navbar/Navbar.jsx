@@ -9,7 +9,6 @@ import {AiFillYoutube} from 'react-icons/ai'
 import {AiFillInstagram} from 'react-icons/ai'
 import {TbGridDots} from 'react-icons/tb'
 
-import { HashLink as Link } from 'react-router-hash-link';
 
 
 const Navbar = () => {

@@ -57,7 +57,7 @@ const Footer = () => {
               Your Personal Guide to the most places to visit in the world
               </span>
               <p>
-                Jan 04, 2023
+                Jan 04, 2024
               </p>
             </div>
 
@@ -66,7 +66,7 @@ const Footer = () => {
               The grand reveal of the most iconic hotel in the world - Atlantis The Royal
               </span>
               <p>
-                Jan 20, 2023
+                Jan 20, 2024
               </p>
             </div>
           </div>
@@ -88,7 +88,7 @@ const Footer = () => {
 
         </div>
         <div  className="bottomDiv flex">
-          <p >Copyright 2023 IsraTech - All rights reserved</p>
+          <p >Copyright 2024 Wonder - All rights reserved</p>
 
           <div className="social flex">
             <FaFacebookF className='icon'/>
